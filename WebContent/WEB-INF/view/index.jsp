@@ -5,6 +5,11 @@
 <html>
 <head>
 <title>Project with GIT</title>
+<style>
+	body, h1 {
+		font-family: verdana;
+	}
+</style>
 </head>
 <body>
 	<h1>Project managed by GIT</h1>
