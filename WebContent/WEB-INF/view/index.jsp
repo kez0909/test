@@ -9,6 +9,9 @@
 	body, h1 {
 		font-family: 궁서체;
 	}
+	h2 {
+		color:red;
+	}
 </style>
 </head>
 <body>
