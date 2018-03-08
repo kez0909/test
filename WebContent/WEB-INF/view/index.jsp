@@ -9,6 +9,9 @@
 	body, h1 {
 		font-family: verdana;
 	}
+	h2 {
+		color:red;
+	}
 </style>
 </head>
 <body>
